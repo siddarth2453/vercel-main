@@ -2,8 +2,8 @@ import express from "express";
 import { S3 } from "aws-sdk";
 
 const s3 = new S3({
-    accessKeyId: "AKIA34AMC752IHHGNU7Z",
-    secretAccessKey: "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",
+    accessKeyId: "**************",
+    secretAccessKey: "***************",
     //endpoint: "https://e21220f4758c0870ba9c388712d42ef2.r2.cloudflarestorage.com"
 })
 
