@@ -16,8 +16,8 @@ exports.uploadFile = void 0;
 const aws_sdk_1 = require("aws-sdk");
 const fs_1 = __importDefault(require("fs"));
 const s3 = new aws_sdk_1.S3({
-    accessKeyId: "AKIA34AMC752IHHGNU7Z",
-    secretAccessKey: "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",
+    accessKeyId: "*****************",
+    secretAccessKey: "**************",
     //endpoint: "https://e21220f4758c0870ba9c388712d42ef2.r2.cloudflarestorage.com"
 });
 // fileName => output/12312/src/App.jsx
